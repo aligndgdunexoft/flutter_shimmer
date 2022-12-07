@@ -100,9 +100,9 @@ class Shimmer extends StatefulWidget {
             ],
             stops: const <double>[
               0.0,
-              0.35,
+              0.45,
               0.5,
-              0.65,
+              0.55,
               1.0
             ]),
         super(key: key);
